@@ -787,7 +787,7 @@ li {
 
 /*==== MEDIA QUERIES =================*/
 
-@media (max-width: 1400px) {
+@media (max-width: 1600px) {
     .ribbon-img-fixed {
         font-size: 1.1rem;
         padding: 1rem 0;
